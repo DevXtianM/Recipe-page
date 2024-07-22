@@ -20,13 +20,13 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![Desktop View](./screenshot.jpg)
-![Mobile View](./screenshot.jpg)
+![Desktop View](https://github.com/DevXtianM/Recipe-page/blob/main/Screenshot/Desktop-view.png)
+![Mobile View](https://github.com/DevXtianM/Recipe-page/blob/main/Screenshot/Mobile-view.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/DevXtianM/Recipe-page)
+- Live Site URL: (https://devxtianm.github.io/Recipe-page/)
 
 ## My process
 
